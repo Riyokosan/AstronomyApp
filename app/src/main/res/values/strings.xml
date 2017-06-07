@@ -1,0 +1,92 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Astronomy Quiz</string>
+
+    <!-- Submit Button -->
+    <string name="submit">Submit result</string>
+
+    <!-- Result message -->
+    <string name="total_score">Your total score is: <xliff:g id="score" example="10">%s</xliff:g> \nCongratulations!</string>
+
+    <!-- Question 1 - 4.3 light-years -->
+    <string name="question1">About how far is the closest star outside our solar system?</string>
+    <string name="answer1">4.3 light-years</string>
+
+    <!-- Question 2 - angular resolution & light-collecting area -->
+    <string name="question2">What are the most important elements of a telescope?</string>
+    <string name="q2_o1">Its magnifying power</string>
+    <string name="q2_o2">Its angular resolution</string>
+    <string name="q2_o3">Its detector</string>
+    <string name="q2_o4">Its lenses</string>
+    <string name="q2_o5">Its light-collecting area</string>
+
+    <!-- Question 3 - Aristarchus -->
+    <string name="question3">What is the name of the first astronomer who proposed an heliocentric system?</string>
+    <string name="q3_o1">Galileo</string>
+    <string name="q3_o2">Copernicus</string>
+    <string name="q3_o3">Ptolemy</string>
+    <string name="q3_o4">Aristarchus</string>
+    <string name="q3_o5">Kepler</string>
+
+    <!-- Question 4 - diffraction limit -->
+    <string name="question4">What is the formula 250 000\" * (wavelength/diameter) used for?</string>
+    <string name="q4_o1">Calculate the diffraction limit</string>
+    <string name="q4_o2">Calculate the Doppler Shift</string>
+    <string name="q4_o3">Calculate the peak wavelength</string>
+    <string name="q4_o4">This formula does not exist</string>
+    <string name="q4_o5">None of the above</string>
+
+    <!-- Question 5 Neptune & beyond Pluto-->
+    <string name="question5">Where is located the Kuiper Belt?</string>
+    <string name="q5_o1">Between Mars and Jupiter</string>
+    <string name="q5_o2">Between Neptune and Pluto </string>
+    <string name="q5_o3">From Neptune until way beyond Pluto</string>
+    <string name="q5_o4">Around Pluto</string>
+    <string name="q5_o5">None of the above</string>
+
+    <!-- Question 6 - Jovians -->
+    <string name="question6">What are the two kinds of planets? Terrestrials and&#8230;?</string>
+    <string name="answer6">Jovians</string>
+
+    <!-- Question 7
+<String name="question7"></String>
+
+        Question 8
+<String name="question8"></String>
+
+        Question 9
+<String name="question9"></String>
+
+        Question 10
+<String name="question10"></String>
+
+        Question 11
+<String name="question11"></String>
+
+        Question 12
+<String name="question12"></String>
+
+        Question 13
+<String name="question13"></String>
+
+        Question 14
+<String name="question14"></String>
+
+        Question 15
+<String name="question15"></String>
+
+        Question 16
+<String name="question16"></String>
+
+        Question 17
+<String name="question17"></String>
+
+        Question 18
+<String name="question18"></String>
+
+        Question 19
+<String name="question19"></String>
+
+        Question 20
+<String name="question20"></String> -->
+
+</resources>
