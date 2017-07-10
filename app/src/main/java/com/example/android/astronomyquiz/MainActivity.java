@@ -95,7 +95,19 @@ public class MainActivity extends AppCompatActivity {
             score++;
         }
 
-        Toast.makeText(this, "Congratulations, your score is: " + score, Toast.LENGTH_SHORT).show();
+        if (score == 6){
+
+            Toast.makeText(this, "Amazing! You\'ve got a perfect score!", Toast.LENGTH_SHORT).show();
+
+        } else if (score >= 4) {
+
+            Toast.makeText(this, "Congratulations, your score is: " + score, Toast.LENGTH_SHORT).show();
+        }
+
+        else {
+
+            Toast.makeText(this, "Your score is: " + score + "\nBetter luck next time!", Toast.LENGTH_SHORT).show();
+        }
     }
 
 
